@@ -1,0 +1,15 @@
+{
+    "name": "paulo.luiz/dgs2023mvc",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "App\\":"app/"
+        }
+    },
+    "description": "Site DGS 2023",
+    "authors": [{
+        "name":"Paulo S. B. Luiz",
+        "email": "paulobrazileiroluiz@gmail.com"
+    }],
+    "require": {}
+}
